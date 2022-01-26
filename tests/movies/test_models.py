@@ -1,4 +1,5 @@
-import  pytest
+import pytest
+
 from movies.models import Movie
 
 
